@@ -7,8 +7,8 @@ global.APIs = {
 }
 
 // Other
-global.owner = ['62895415872325']
-global.premium = ['62895415872325']
+global.owner = ['6288291551330']
+global.premium = ['6288291551330']
 global.youtube = 'https://youtube.com/c/Riy'
 global.ownername = 'Aldi Store'
 global.botname ='Aldi Botz'
