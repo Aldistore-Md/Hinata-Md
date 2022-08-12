@@ -14,7 +14,7 @@ global.ownername = 'Aldi Store'
 global.botname ='Aldi Botz'
 global.donasi = {
     saweria: 'https://saweria.co/riy20',
-    nomor: '0895415872325'
+    nomor: '088291551330'
 }
 global.packname = 'Aldi Botz'
 global.author = 'WhatsApp Bot'
